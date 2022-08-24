@@ -7,7 +7,6 @@ res.status(201).json({
     product
 })
 }
-//get all the products
 
 //get filtered product
 exports.getfilteredProduct =  async (req,res)=>{
